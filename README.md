@@ -1,4 +1,4 @@
-# Cybersecurity Content Specialist Assignment: Vulnerability Scanning Report 
+# Cybersecurity Assignment: Vulnerability Scanning Report 
 **Candidate Name**: Vedant Adhikari  
 **Tools Used**: Kali Linux, Nmap, Metasploitable2 
 ## 1. Introduction to Vulnerability Scanning 
