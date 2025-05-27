@@ -9,5 +9,5 @@ organization's networks, systems, applications, and devices.
 To demonstrate the process of vulnerability scanning, a controlled and ethical environment 
 was established. The following steps outline the methodology employed: 
 #### 2.1. Environment Setup: 
-    ● Attacker Machine: A Kali Linux Virtual Machine (VM) was used as the scanning 
-      platform. 
+   * Attacker Machine: A Kali Linux Virtual Machine (VM) was used as the scanning 
+   platform. 
